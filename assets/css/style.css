@@ -1,0 +1,94 @@
+html {
+	width: 960px;
+}
+h1{
+	display: block;
+	font-family: Georgia, Times, "Times New Roman", serif;
+	background-color: #4aaaa5;
+	color: #fff;
+	padding: 15px;
+	font-family: Georgia;
+	width: 300px;
+	float: left;
+	margin-bottom: 0px;
+}
+
+ul{
+	font-size: 18px;
+	margin: 0px;
+	float: right;
+	padding: 0px;
+	overflow: hidden;
+	list-style-type: none;	
+}
+li {
+	float: left;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+li a {
+	display: block;
+	padding: 8px;
+}
+
+.body {
+	clear: left;
+	background-color: #ffffff;
+	width: 650px;
+	border: 25px;
+	padding: 10px 10px 10px 10px;
+	margin: 0px 10px 0px 0px;
+	border-color: #dddddd;
+
+
+}
+
+body {
+	background: url("https://www.toptal.com/designers/subtlepatterns/patterns/asanoha-400px.png"); 
+	padding: 25px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h3 {
+	font-size: 30px;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+p {
+	
+	padding: 5px;
+	width: 500px;
+	color: #777777;
+
+}
+
+.connect {
+	
+	width: 300px;
+	height: 125px;
+	background-color: #ffffff;
+	border: 15px;
+	padding: 5px 5px 5px 5px;
+	border-color: #dddddd;
+	margin: auto;
+	text-align: center;
+
+}
+
+h4{
+	font-size: 30px;
+	margin: 10px;
+	color: #4aaaa5;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+.aboutcontainer {
+	display: inline-flex;
+}
+.about {
+	display: -webkit-box;
+}
+.portfoliocontainer {
+	display: inline-flex;
+}
+hr {
+	color: #777777
+}
+
+
